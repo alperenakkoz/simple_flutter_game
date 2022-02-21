@@ -1,6 +1,6 @@
 # simple_flutter_game
 
-A new Flutter project.
+A project for to learn about state in flutter.
 
 ## Getting Started
 
