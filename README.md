@@ -1,6 +1,7 @@
 # simple_flutter_game
 
 A project for to learn about state in flutter.
+![image](https://user-images.githubusercontent.com/81516460/154942538-a0ef0605-e280-4e3c-8b1d-3dd3ed367d73.png)
 
 ## Getting Started
 
