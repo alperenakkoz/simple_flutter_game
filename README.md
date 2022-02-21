@@ -3,6 +3,8 @@
 A project for to learn about state in flutter.
 
 ![image](https://user-images.githubusercontent.com/81516460/154942538-a0ef0605-e280-4e3c-8b1d-3dd3ed367d73.png)
+![image](https://user-images.githubusercontent.com/81516460/154942738-2f7b386a-9e14-4a61-904d-8e10138e60ad.png)
+
 
 ## Getting Started
 
